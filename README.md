@@ -1,3 +1,5 @@
+This is created using React.
+
 This project is a clone of the popular food delivery app Zomato. It replicates the user interface and incorporates several key functionalities such as search filters, rating filters, sorting filters, cuisine filters, cost filters, bookmarking, and a shopping cart. Users can seamlessly search for restaurants, apply various filters to refine their results, add items to their cart, and proceed with the checkout process.
 
 #Features
