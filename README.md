@@ -20,4 +20,4 @@ Shopping Cart: Users can add items to their cart for purchasing. They can adjust
 
 
 #Demo 
-For a live demo, visit 'https://zomatocloneproject.netlify.app'
+For a live demo, visit 'https://zomatoappclone4.netlify.app'
